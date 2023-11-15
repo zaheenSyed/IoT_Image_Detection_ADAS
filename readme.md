@@ -1,8 +1,10 @@
 # Real time ADAS for Crash and Pedestrian Detection Using Internet of Vehicle.
 
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+
+
+
+https://github.com/zaheenSyed/IoT_Image_Detection_ADAS/assets/42613370/088f9d97-4299-4ebb-8b24-85ea01f4dfb7
+
 
 ### Overview
 
